@@ -14,29 +14,29 @@ It exists for cultural, symbolic, and entertainment purposes only.
 
 For the avoidance of doubt, and without limiting the generality of the above, XAC is not, and is not intended to:
 
-- be a medium of exchange accepted by the public (or any section of the public) as payment for goods or services or for the discharge of any debt;
+- Be a medium of exchange accepted by the public (or any section of the public) as payment for goods or services or for the discharge of any debt;
 
-- be designed or intended to be used by any person as payment for goods or services, whether through Xacronum or any affiliated group;
+- Be designed or intended to be used by any person as payment for goods or services, whether through Xacronum or any affiliated group;
 
-- entitle holders to exchange XAC for goods or services;
+- Entitle holders to exchange XAC for goods or services;
 
-- be a representation of money (including e-money);
+- Be a representation of money (including e-money);
 
-- be a digital representation of a capital markets product, security, share, debenture, unit in a collective investment scheme, derivatives contract, commodity, or any other kind of financial instrument or investment in any jurisdiction;
+- Be a digital representation of a capital markets product, security, share, debenture, unit in a collective investment scheme, derivatives contract, commodity, or any other kind of financial instrument or investment in any jurisdiction;
 
-- be a capital markets product, security, share, debenture, unit in a collective investment scheme, derivatives contract, commodity, or any other kind of financial instrument or investment in any jurisdiction;
+- Be a capital markets product, security, share, debenture, unit in a collective investment scheme, derivatives contract, commodity, or any other kind of financial instrument or investment in any jurisdiction;
 
-- represent any shareholding, participation, right (including but not limited to voting rights), title, stake or interest in, or right to participate in the business operations of any entity, enterprise, or undertaking (including without limitation any entity related to Xacronum);
+- Represent any shareholding, participation, right (including but not limited to voting rights), title, stake or interest in, or right to participate in the business operations of any entity, enterprise, or undertaking (including without limitation any entity related to Xacronum);
 
-- represent any entitlement to any voting rights in respect of the “Xacronum” ecosystem or any related platform;
+- Represent any entitlement to any voting rights in respect of the “Xacronum” ecosystem or any related platform;
 
-- represent any entitlement to fees, dividends, revenue, profits, or investment returns;
+- Represent any entitlement to fees, dividends, revenue, profits, or investment returns;
 
-- represent any rights under a contract for differences or under any other contract the purpose or purported purpose of which is to secure a profit or avoid a loss;
+- Represent any rights under a contract for differences or under any other contract the purpose or purported purpose of which is to secure a profit or avoid a loss;
 
-- be refundable or exchangeable for cash (or its equivalent value in any other digital asset); and/or
+- Re refundable or exchangeable for cash (or its equivalent value in any other digital asset); and/or
 
-- represent any indebtedness.
+- Represent any indebtedness.
 
 There is no guarantee and no commitment to list XAC on any exchange.
 
